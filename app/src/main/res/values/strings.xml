@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_REST</string>
+
+    <string-array name="booking_status_array">
+        <item>New</item>
+        <item>Approved</item>
+        <item>Rejected</item>
+    </string-array>
+</resources>
